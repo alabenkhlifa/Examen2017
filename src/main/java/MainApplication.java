@@ -3,5 +3,6 @@ public class MainApplication {
         System.out.println("Hello User!");
         System.out.println("Hello Event!");
         System.out.println("Hello!");
+        System.out.println("Hello!");
     }
 }
