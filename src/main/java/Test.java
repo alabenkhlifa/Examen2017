@@ -3,6 +3,8 @@ public class Test {
     // TODO 2
     public static void main(String[] args) {
          System.out.println("hello Nada!");
+         System.out.println("hello Nada!");
+         System.out.println("welcome back!");
          System.out.println("welcome back!");
     }
 }
